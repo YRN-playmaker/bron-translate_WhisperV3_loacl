@@ -117,14 +117,6 @@ Download a model from [alphacephei.com/vosk/models](https://alphacephei.com/vosk
 3. Hit **▶ start**. Captions appear live.
 4. Click **📺 floating** for a draggable always-on-top subtitle window.
 
----
-
-## Notes for developers
-
-The transcription path exposes two no-op extension points
-(`refine_segment_audio` and `postprocess_transcript` in `main.py`) so the
-pipeline can be extended without touching the surrounding code. They are inert
-pass-throughs in this edition.
 
 ---
 
