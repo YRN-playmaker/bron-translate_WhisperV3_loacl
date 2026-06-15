@@ -13,7 +13,7 @@
 # DUAL LICENSING: the AGPL requires that any modified or networked deployment
 # also be released under the AGPL. If you want to use this software in a closed-
 # source or commercial product without that obligation, a separate commercial
-# license is available — contact your-gmail@gmail.com.
+# license is available — contact 2213993473a@gmail.com.
 """
 BroN-translate (Local Edition)
 ==============================
