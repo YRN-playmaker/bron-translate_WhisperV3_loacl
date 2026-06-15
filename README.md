@@ -2,7 +2,7 @@
 
 **Self-hosted, real-time speech translation that runs entirely on your own machine.**
 
-This is the local, open-source build of [BroN-translate](https://bron-translate.org):
+This is the local, open-source build of [BroN-translate](https://github.com/YRN-playmaker/bron-translate-):
 a single-process server that captures microphone audio, transcribes it with a
 local **Whisper large-v3** model, translates with **DeepSeek**, and shows live
 captions in your browser — including a draggable floating-window (PiP) overlay
